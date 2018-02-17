@@ -1,4 +1,4 @@
-use db1;
+USE db1;
 
 SELECT
 libros.id,libros.nombre AS titulo,autores.nombre AS autor, editoriales.id AS editorial
